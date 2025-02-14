@@ -1,5 +1,3 @@
-# toudshk
-
 <h1 align="left">:wave: Hello there! I'm Ivan Troshin</h1>
 
 <br>
@@ -183,22 +181,18 @@
       <br>Nest JS
     </td>
     <td align="center" width="110" height="90">
-
 <a href="#toudhsk-stack">      
         <img src="https://brandeps.com/icon-download/N/Nodejs-icon-vector-02.svg" width="36" height="36" alt="Node JS" />
       </a>
       <br>Node JS
     </td>
-    
     <td align="center" width="110" height="90">
 <a href="#toudhsk-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
       </a>
       <br>MongoDB
     </td>
-    
       <td align="center" width="110" height="90"> 
-      
 <a href="#toudhsk-stack">
         <img src="https://trpc.io/img/logo.svg" width="36" height="36" alt="tRPC" />
       </a>
